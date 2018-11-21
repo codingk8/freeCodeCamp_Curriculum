@@ -21,7 +21,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 ## **JavaScript Algorithms and Data Structures Certification (in progress)**
 1. Basic JavaScript (Done)
 2. ES6 (Done)
-3. **Regular Expressions (In progress)**
+3. **Regular Expressions (in progress)**
 4. **Debugging**
 5. **Basic Data Structures**
 6. **Basic Algorithm Scripting**
@@ -41,7 +41,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 3. Sass (Done)
 4. React (Done)
 5. Redux (Done)
-6. **React and Redux (In progress)**
+6. **React and Redux (in progress)**
 7. **Front End Libraries Projects**
    * **Build a Random Quote Machine**
    * **Build a Markdown Previewer**

@@ -29,11 +29,11 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 8. Functional Programming
 9. Intermediate Algorithm Scripting
 10. JavaScript Algorithms and Data Structures Projects
-   * Palindrome Checker
-   * Roman Numeral Converter
-   * Caesars Cipher
-   * Telephone Number Validator
-   * Cash Register
+    * Palindrome Checker
+    * Roman Numeral Converter
+    * Caesars Cipher
+    * Telephone Number Validator
+    * Cash Register
 
 ## **Front End Librairies Certification**
 1. Bootstrap (Done)

@@ -37,7 +37,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 ## **Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
-2. jQuery (Done)
+2. **jQuery (in progress)**
 3. Sass (Done)
 4. React (Done)
 5. Redux (Done)

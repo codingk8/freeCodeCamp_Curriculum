@@ -1,14 +1,14 @@
 # freeCodeCamp_Curriculum
 Tracking my activity in the FreeCodeCamp curriculum :princess:
 
-## Responsive Web Design Certification
-1. Basic HTML and HTML5 (20181009 v1 & v2 & v3)
-2. Basic CSS (20181010 v1 & v2 & v3)
-3. Applied Visual Design (20181025 v1 & v2 & v3)
-4. Applied Accessibility (20181017 v1 & v2 & v3)
-5. Responsive Web Design Principles (20181017 v1 & v2 & v3)
-6. CSS Flexbox (20181017-22 v1 & v2 & v3)
-7. CSS Grid (20181029 v1)
+## **Responsive Web Design Certification**
+1. Basic HTML and HTML5 (Done)
+2. Basic CSS (Done)
+3. Applied Visual Design (Done)
+4. Applied Accessibility (Done)
+5. Responsive Web Design Principles (Done)
+6. CSS Flexbox (Done)
+7. CSS Grid (Done)
 8. Responsive Web Design Projects
   * Build a Tribute Page
   * Build a Survey Form
@@ -16,10 +16,10 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
   * Build a Technical Documentation Page
   * Build a Personal Portfolio Webpage (voir avec projet Bootstrap John Codeur)
 
-## JavaScript Algorithms and Data Structures Certification
-1. Basic JavaScript (201809 v1)
-2. ES6 (201809 v1)
-3. Regular Expressions (201811 v1)
+## **JavaScript Algorithms and Data Structures Certification**
+1. Basic JavaScript (Done)
+2. ES6 (Done)
+3. Regular Expressions (In progress)
 4. Debugging
 5. Basic Data Structures
 6. Basic Algorithm Scripting
@@ -33,19 +33,19 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
   * Telephone Number Validator
   * Cash Register
 
-## Front End Librairies Certification
-1. Bootstrap (201810 v1-v3)
-2. jQuery (20181030 v1)
-3. Sass (201811 v1)
-4. React (201810 v1)
-5. Redux (201809 v1)
-6. React and Redux (commencé 201810 v1)
+## **Front End Librairies Certification**
+1. Bootstrap (Done)
+2. jQuery (Done)
+3. Sass (Done)
+4. React (Done)
+5. Redux (Done)
+6. React and Redux (In progress)
 7. Front End Libraries Projects
-  * Build a Random Quote Machine
-  * Build a Markdown Previewer
-  * Build a Drum Machine
-  * Build a JavaScript Calculator
-  * Build a Pomodoro Clock
+   * Build a Random Quote Machine
+   * Build a Markdown Previewer
+   * Build a Drum Machine
+   * Build a JavaScript Calculator
+   * Build a Pomodoro Clock
 
 ## Data Visualization Certification
 1. Data Visualization with D3

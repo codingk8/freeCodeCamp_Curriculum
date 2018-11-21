@@ -16,7 +16,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * Build a Survey Form
    * Build a Product Landing Page
    * Build a Technical Documentation Page
-   * Build a Personal Portfolio Webpage (voir avec projet Bootstrap John Codeur)
+   * Build a Personal Portfolio Webpage
 
 ## **JavaScript Algorithms and Data Structures Certification**
 1. Basic JavaScript (Done)

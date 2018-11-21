@@ -3,7 +3,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
-## **Responsive Web Design Certification**
+## **Responsive Web Design Certification (projects)**
 1. Basic HTML and HTML5 (Done)
 2. Basic CSS (Done)
 3. Applied Visual Design (Done)
@@ -18,7 +18,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * **Build a Technical Documentation Page**
    * **Build a Personal Portfolio Webpage**
 
-## **JavaScript Algorithms and Data Structures Certification**
+## **JavaScript Algorithms and Data Structures Certification (in progress)**
 1. Basic JavaScript (Done)
 2. ES6 (Done)
 3. **Regular Expressions (In progress)**
@@ -35,7 +35,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
     * **Telephone Number Validator**
     * **Cash Register**
 
-## **Front End Librairies Certification**
+## **Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
 2. jQuery (Done)
 3. Sass (Done)

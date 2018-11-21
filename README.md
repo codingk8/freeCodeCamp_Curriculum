@@ -1,6 +1,8 @@
 # freeCodeCamp_Curriculum
 Tracking my activity in the FreeCodeCamp curriculum :princess:
 
+[My FCC public profile](https://www.freecodecamp.org/codingk8)
+
 ## **Responsive Web Design Certification**
 1. Basic HTML and HTML5 (Done)
 2. Basic CSS (Done)
@@ -10,11 +12,11 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 6. CSS Flexbox (Done)
 7. CSS Grid (Done)
 8. Responsive Web Design Projects
-  * Build a Tribute Page
-  * Build a Survey Form
-  * Build a Product Landing Page
-  * Build a Technical Documentation Page
-  * Build a Personal Portfolio Webpage (voir avec projet Bootstrap John Codeur)
+   * Build a Tribute Page
+   * Build a Survey Form
+   * Build a Product Landing Page
+   * Build a Technical Documentation Page
+   * Build a Personal Portfolio Webpage (voir avec projet Bootstrap John Codeur)
 
 ## **JavaScript Algorithms and Data Structures Certification**
 1. Basic JavaScript (Done)
@@ -27,11 +29,11 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 8. Functional Programming
 9. Intermediate Algorithm Scripting
 10. JavaScript Algorithms and Data Structures Projects
-  * Palindrome Checker
-  * Roman Numeral Converter
-  * Caesars Cipher
-  * Telephone Number Validator
-  * Cash Register
+   * Palindrome Checker
+   * Roman Numeral Converter
+   * Caesars Cipher
+   * Telephone Number Validator
+   * Cash Register
 
 ## **Front End Librairies Certification**
 1. Bootstrap (Done)
@@ -51,30 +53,30 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 1. Data Visualization with D3
 2. JSON APIs and AJAX
 3. Data Visualization Projects
-  * Visualize Data with a Bar Chart
-  * Visualize Data with a Scatterplot Graph
-  * Visualize Data with a Heat Map
-  * Visualize Data with a Choropleth Map
-  * Visualize Data with a Treemap Diagram
+   * Visualize Data with a Bar Chart
+   * Visualize Data with a Scatterplot Graph
+   * Visualize Data with a Heat Map
+   * Visualize Data with a Choropleth Map
+   * Visualize Data with a Treemap Diagram
 
 ## APIs and Microservices Certification
 1. Managing Packages with NPM
 2. Basic Node and Express
 3. MongoDB and Mongoose
 4. APIs and Microservices projects
-  * Timestamp Microservice
-  * Request Header Parser Microservice
-  * URL Shortener Microservice
-  * Exercise Tracker
-  * File Metadata Microservice
+   * Timestamp Microservice
+   * Request Header Parser Microservice
+   * URL Shortener Microservice
+   * Exercise Tracker
+   * File Metadata Microservice
 
 ## Information Security and Quality Assurance Certification
 1. Information Security with HelmetJS
 2. Quality Assurance and Testing with Chai
 3. Advanced Node and Express
 4. Information Security and Quality Assurance Projects
-  * Metric-Imperial Converter
-  * Issue Tracker
-  * Personal Library
-  * Stock Price Checker
-  * Anonymous Message Board
+   * Metric-Imperial Converter
+   * Issue Tracker
+   * Personal Library
+   * Stock Price Checker
+   * Anonymous Message Board

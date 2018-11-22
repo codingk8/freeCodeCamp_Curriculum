@@ -3,6 +3,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
+20181122 : 484 out of 1409 = 34,4% | 0 out of 30 projects | 0 out of 6 certifications
+
 ***
 
 ## **Responsive Web Design Certification (projects)**

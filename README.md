@@ -3,6 +3,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
+***
+
 ## **Responsive Web Design Certification (projects)**
 1. Basic HTML and HTML5 (Done)
 2. Basic CSS (Done)
@@ -17,6 +19,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * **Build a Product Landing Page**
    * **Build a Technical Documentation Page**
    * **Build a Personal Portfolio Webpage**
+
+***
 
 ## **JavaScript Algorithms and Data Structures Certification (in progress)**
 1. Basic JavaScript (Done)
@@ -35,6 +39,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
     * **Telephone Number Validator**
     * **Cash Register**
 
+***
+
 ## **Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
 2. **jQuery (in progress)**
@@ -49,6 +55,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * **Build a JavaScript Calculator**
    * **Build a Pomodoro Clock**
 
+***
+
 ## Data Visualization Certification (next)
 1. Data Visualization with D3
 2. JSON APIs and AJAX
@@ -58,6 +66,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * Visualize Data with a Heat Map
    * Visualize Data with a Choropleth Map
    * Visualize Data with a Treemap Diagram
+
+***
 
 ## APIs and Microservices Certification (next)
 1. Managing Packages with NPM
@@ -70,6 +80,8 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * Exercise Tracker
    * File Metadata Microservice
 
+***
+
 ## Information Security and Quality Assurance Certification (next)
 1. Information Security with HelmetJS
 2. Quality Assurance and Testing with Chai
@@ -80,3 +92,5 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
    * Personal Library
    * Stock Price Checker
    * Anonymous Message Board
+   
+***

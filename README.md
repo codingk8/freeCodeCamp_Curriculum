@@ -3,7 +3,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
-20181126 : 506 out of 1409 = 40% | 0 out of 30 projects | 0 out of 6 certifications
+20181127 : 517 out of 1409 = 36,7% | 0 out of 30 projects | 0 out of 6 certifications
 
 ***
 
@@ -30,7 +30,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 3. Regular Expressions (Done)
 4. _Debugging (in progress)_
 5. _Basic Data Structures (in progress)_
-6. **Basic Algorithm Scripting**
+6. _Basic Algorithm Scripting (in progress)_
 7. **Object Oriented Programming**
 8. **Functional Programming**
 9. **Intermediate Algorithm Scripting**

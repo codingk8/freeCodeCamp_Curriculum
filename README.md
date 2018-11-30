@@ -3,7 +3,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 
 [My FCC public profile](https://www.freecodecamp.org/codingk8)
 
-20181130 : 542 out of 1409 = 38,5% | 0 out of 30 projects | 0 out of 6 certifications
+20181130 : 549 out of 1409 = 39% | 0 out of 30 projects | 0 out of 6 certifications
 
 ***
 
@@ -46,7 +46,7 @@ Tracking my activity in the FreeCodeCamp curriculum :princess:
 ## **Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
 2. _jQuery (in progress)_
-3. Sass (Done)
+3. _Sass (in progress)_
 4. React (Done)
 5. Redux (Done)
 6. **React and Redux (in progress)**

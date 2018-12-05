@@ -6,7 +6,7 @@
 
 ***
 
-## **Responsive Web Design Certification (projects)**
+## ** 1. Responsive Web Design Certification (projects)**
 1. Basic HTML and HTML5 (Done)
 2. Basic CSS (Done)
 3. Applied Visual Design (Done)
@@ -23,7 +23,7 @@
 
 ***
 
-## **JavaScript Algorithms and Data Structures Certification (in progress)**
+## **2. JavaScript Algorithms and Data Structures Certification (in progress)**
 1. Basic JavaScript (Done)
 2. ES6 (Done)
 3. Regular Expressions (Done)
@@ -42,7 +42,7 @@
 
 ***
 
-## **Front End Librairies Certification (in progress)**
+## **3. Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
 2. _jQuery (in progress)_
 3. _Sass (in progress)_
@@ -58,7 +58,7 @@
 
 ***
 
-## Data Visualization Certification (next)
+## 4. Data Visualization Certification (next)
 1. Data Visualization with D3
 2. JSON APIs and AJAX
 3. Data Visualization Projects
@@ -70,7 +70,7 @@
 
 ***
 
-## APIs and Microservices Certification (next)
+## 5. APIs and Microservices Certification (next)
 1. Managing Packages with NPM
 2. Basic Node and Express
 3. MongoDB and Mongoose
@@ -83,7 +83,7 @@
 
 ***
 
-## Information Security and Quality Assurance Certification (next)
+## 6. Information Security and Quality Assurance Certification (next)
 1. Information Security with HelmetJS
 2. Quality Assurance and Testing with Chai
 3. Advanced Node and Express

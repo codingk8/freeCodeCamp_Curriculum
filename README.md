@@ -48,7 +48,7 @@
 3. _Sass (in progress)_
 4. React (Done)
 5. Redux (Done)
-6. **React and Redux (in progress)**
+6. _React and Redux (in progress)_
 7. **Front End Libraries Projects**
    * **Build a Random Quote Machine**
    * **Build a Markdown Previewer**

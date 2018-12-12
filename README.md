@@ -96,7 +96,7 @@
    
 ***
 
-<h2 align="center">"Like a river ..." :ocean:</h2>
-<p align="center"><img src="https://media.giphy.com/media/AVzDa0eFWauVa/giphy.gif" alt="Be free"/></p>
+<h2 align="center">Where the magic begins :sparkles:</h2>
+<p align="center"><img src="https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif" alt="Be free"/></p>
   
 ***

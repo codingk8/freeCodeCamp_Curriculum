@@ -96,7 +96,7 @@
    
 ***
 
-<h2 align="center">"Like a river ..." :dolphin:</h2>
-<p align="center"><img src="https://media.giphy.com/media/reKhFA9lMdHxu/giphy.gif" alt="Have fun!"/></p>
+<h2 align="center"> "Fun is all you need" :wink:</h2>
+<p align="center"><img src="https://media.giphy.com/media/tSbgQoZd583Cg/giphy.gif" alt="Have fun!"/></p>
   
 ***

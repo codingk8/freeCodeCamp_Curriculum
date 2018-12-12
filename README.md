@@ -97,6 +97,6 @@
 ***
 
 <h2 align="center"> "Like a river ..." :dolphin:</h2>
-<p align="center"><img src="https://media.giphy.com/media/AoRq0JoIzDeo/giphy.gif" alt="Have fun !")</p>
+<p align="center"><img src="https://media.giphy.com/media/reKhFA9lMdHxu/giphy.gif" alt="Have fun!")</p>
   
 ***

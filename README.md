@@ -97,6 +97,6 @@
 ***
 
 <h2 align="center">"Like a river ..." :ocean:</h2>
-<p align="center"><img src="https://media.giphy.com/media/HFCtKdQ6tEsCc/giphy.gif" alt="Be free"/></p>
+<p align="center"><img src="https://media.giphy.com/media/AVzDa0eFWauVa/giphy.gif" alt="Be free"/></p>
   
 ***

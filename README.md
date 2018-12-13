@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my activity 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20181130 : 549 out of 1409 = 39% | 0 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20181213 : 549 out of 1409 = 39% | 0 out of 30 projects | 0 out of 6 certifications</h3>
 
 ***
 
@@ -28,9 +28,9 @@
 2. ES6 (Done)
 3. Regular Expressions (Done)
 4. Debugging (Done)
-5. _Basic Data Structures (in progress)_
+5. Basic Data Structures (Done)
 6. _Basic Algorithm Scripting (in progress)_
-7. _Object Oriented Programming (in progress)_
+7. Object Oriented Programming (Done)
 8. **Functional Programming**
 9. **Intermediate Algorithm Scripting**
 10. **JavaScript Algorithms and Data Structures Projects**
@@ -45,7 +45,7 @@
 ## **3. Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
 2. _jQuery (in progress)_
-3. _Sass (in progress)_
+3. Sass (Done)
 4. React (Done)
 5. Redux (Done)
 6. _React and Redux (in progress)_

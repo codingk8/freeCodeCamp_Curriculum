@@ -97,6 +97,6 @@
 ***
 
 <h2 align="center">Where the magic begins :sparkles:</h2>
-<p align="center"><img src="https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif" alt="Magic"/></p>
+<p align="center"><img src="https://media.giphy.com/media/1AiIyXakd0nt9YVMhn/giphy.gif" alt="Magic"/></p>
   
 ***

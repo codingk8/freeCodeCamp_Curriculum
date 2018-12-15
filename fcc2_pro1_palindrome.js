@@ -1,4 +1,4 @@
-/* xxx */
+/* Free Code Camp - Part 2: Basic JavaScript - Project 1: Palindrome checker */
 
 // My 1st solution
 

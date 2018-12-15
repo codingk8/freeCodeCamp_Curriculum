@@ -1,5 +1,6 @@
-# FCC26 Memo
-## 16 JS algorithm exercices
+<h1 align="center">FCC26 - 16 JS algorithm exercices - Memo</h1>
+
+***
 
 1. Convert Celsius to Fahrenheit	
 2. Reverse a String

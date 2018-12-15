@@ -20,7 +20,7 @@
 
 ***
 
-<h2 align="center">Let's be unicorns! :unicorn:</h2>
-<p align="center"><img src="https://media.giphy.com/media/1ZostJS3YDb34j0D7s/giphy.gif" alt="The truth is out there"/></p>
+<h2 align="center">May the force</h2>
+<p align="center"><img src="https://media.giphy.com/media/JDnaQ8qn0Myuk/giphy.gif" alt="May the force be with you"/></p>
   
 ***

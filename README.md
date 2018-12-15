@@ -6,7 +6,7 @@
 
 ***
 
-## ** 1. Responsive Web Design Certification (projects)**
+## **1. Responsive Web Design Certification (projects)**
 1. Basic HTML and HTML5 (Done)
 2. Basic CSS (Done)
 3. Applied Visual Design (Done)
@@ -34,7 +34,7 @@
 8. _Functional Programming (in progress)_
 9. _Intermediate Algorithm Scripting (in progress)_
 10. **JavaScript Algorithms and Data Structures Projects**
-    * _Palindrome Checker (in progress)_
+    * Palindrome Checker (Done 20181215)
     * _Roman Numeral Converter (in progress)_
     * **Caesars Cipher**
     * **Telephone Number Validator**

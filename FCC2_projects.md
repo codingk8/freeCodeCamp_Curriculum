@@ -10,7 +10,7 @@ You'll need to remove all non-alphanumeric characters (punctuation, spaces and s
 We'll pass strings with varying formats, such as "racecar", "RaceCar", and "race CAR" among others.  
 We'll also pass strings with special symbols, such as "2A3*3a2", "2A3 3a2", and "2_A3*3#A2".**_
 
-[Great ressource](https://medium.freecodecamp.org/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7)
+[Great ressource :gb:](https://medium.freecodecamp.org/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7)
 
 [Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
 
@@ -28,7 +28,7 @@ All roman numerals answers should be provided in upper-case.**_
 
 ***
 
-<h2 align="center">Code joy :christmas_tree:</h2>
+<h2 align="center">Code joy :snowman:</h2>
 <p align="center"><img src="https://media.giphy.com/media/l3vRkS8dP411iHQu4/giphy.gif" alt="May the force be with you"/></p>
 
 ***

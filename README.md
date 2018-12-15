@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my activity 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20181213 : 549 out of 1409 = 39% | 0 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20181213 : 557 out of 1409 = 39.5% | 0 out of 30 projects | 0 out of 6 certifications</h3>
 
 ***
 
@@ -15,11 +15,11 @@
 6. CSS Flexbox (Done)
 7. CSS Grid (Done)
 8. **Responsive Web Design Projects**
-   * **Build a Tribute Page**
+   * _Build a Tribute Page (in progress)_
    * **Build a Survey Form**
    * **Build a Product Landing Page**
-   * **Build a Technical Documentation Page**
-   * **Build a Personal Portfolio Webpage**
+   * _Build a Technical Documentation Page (in progress)_
+   * _Build a Personal Portfolio Webpage (in progress)_
 
 ***
 
@@ -29,13 +29,13 @@
 3. Regular Expressions (Done)
 4. Debugging (Done)
 5. Basic Data Structures (Done)
-6. _Basic Algorithm Scripting (in progress)_
+6. Basic Algorithm Scripting (Done)
 7. Object Oriented Programming (Done)
-8. **Functional Programming**
-9. **Intermediate Algorithm Scripting**
+8. _Functional Programming (in progress)_
+9. _Intermediate Algorithm Scripting (in progress)_
 10. **JavaScript Algorithms and Data Structures Projects**
     * _Palindrome Checker (in progress)_
-    * **Roman Numeral Converter**
+    * _Roman Numeral Converter (in progress)_
     * **Caesars Cipher**
     * **Telephone Number Validator**
     * **Cash Register**

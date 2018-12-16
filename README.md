@@ -35,7 +35,7 @@
 9. _Intermediate Algorithm Scripting (in progress)_
 10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
-    * _Roman Numeral Converter (in progress)_
+    * _[Roman Numeral Converter (in progress)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)_
     * **Caesars Cipher**
     * **Telephone Number Validator**
     * **Cash Register**

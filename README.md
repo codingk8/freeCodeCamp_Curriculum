@@ -29,7 +29,7 @@
 3. Regular Expressions (Done)
 4. Debugging (Done)
 5. Basic Data Structures (Done)
-6. Basic Algorithm Scripting (Done)
+6. [Basic Algorithm Scripting (Done)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC26_basic_algorithm_scripting.md)
 7. Object Oriented Programming (Done)
 8. _Functional Programming (in progress)_
 9. _Intermediate Algorithm Scripting (in progress)_

@@ -33,7 +33,7 @@
 7. Object Oriented Programming (Done)
 8. _Functional Programming (in progress)_
 9. _Intermediate Algorithm Scripting (in progress)_
-10. **JavaScript Algorithms and Data Structures Projects**
+10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * Palindrome Checker (Done 20181215)
     * _Roman Numeral Converter (in progress)_
     * **Caesars Cipher**

@@ -137,9 +137,8 @@ For the purpose of this exercise, you should also capitalize connecting words li
 
 ### 12. <a name="ex12"></a>Slice and Splice
 
-_**You are given two arrays and an index.
-
-_**Use the array methods slice and splice to copy each element of the first array into the second array, in order.  
+_**You are given two arrays and an index.  
+Use the array methods slice and splice to copy each element of the first array into the second array, in order.  
 Begin inserting elements at index n of the second array.**_
 
 ##### Hints: 

@@ -31,7 +31,7 @@ Don't worry too much about the function and return statements as they will be co
 
 ##### Hints: plain easy one, an occasion to test ES5 & ES6
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_1_celsius_to_fah.js)
 
 
 ### 2. <a name="ex2"></a>Reverse a String
@@ -42,7 +42,7 @@ Your result must be a string.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_2_reverse_string.js)
 
 
 ### 3. <a name="ex3"></a>Factorialize a Number
@@ -55,7 +55,7 @@ Only integers greater than or equal to zero will be supplied to the function.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_3_factorialize.js)
 
 
 ### 4. <a name="ex4"></a>Find the Longest Word in a String
@@ -65,7 +65,7 @@ Your response should be a number.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_4_longest_word.js)
 
 
 ### 5. <a name="ex5"></a>Return Largest Numbers in Arrays
@@ -75,7 +75,7 @@ Remember, you can iterate through an array with a simple for loop, and access ea
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_5_largest_number.js)
 
 
 ### 6. <a name="ex6"></a>Confirm the Ending
@@ -85,7 +85,7 @@ This challenge can be solved with the .endsWith() method, which was introduce
 
 ##### Hints: at least 2 possibilities, one being a Regex
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_6_confirm_ending.js)
 
 
 ### 7. <a name="ex7"></a>Repeat a String Repeat a String
@@ -94,7 +94,7 @@ _**Repeat a given string str(first argument) for num times (second argument). 
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_7_repeat.js)
 
 
 ### 8. <a name="ex8"></a>Truncate a String
@@ -103,7 +103,7 @@ _**Truncate a string (first argument) if it is longer than the given maximum str
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_8_truncate.js)
 
 
 ### 9. <a name="ex9"></a>Finders Keepers
@@ -112,7 +112,7 @@ _**Create a function that looks through an array (first argument) and returns th
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_9_finders_keepers.js)
 
 
 ### 10. <a name="ex10"></a>Boo who
@@ -122,7 +122,7 @@ Boolean primitives are true and false.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_10_boo_who.js)
 
 
 ### 11. <a name="ex11"></a>Title Case a Sentence
@@ -132,7 +132,7 @@ For the purpose of this exercise, you should also capitalize connecting words li
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_11_title_case.js)
 
 
 ### 12. <a name="ex12"></a>Slice and Splice
@@ -144,7 +144,7 @@ Begin inserting elements at index n of the second array.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_12_slice_splice.js)
 
 
 ### 13. <a name="ex13"></a>Falsy Bouncer
@@ -155,7 +155,7 @@ Hint: Try converting each value to a Boolean.**_
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_13_falsy.js)
 
 
 ### 14. <a name="ex14"></a>Where do I Belong
@@ -166,7 +166,7 @@ Likewise, getIndexToIns([20,3,5], 19) should return 2 because once the array h
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_14_belong.js)
 
 
 ### 15. <a name="ex15"></a>Mutations
@@ -178,7 +178,7 @@ Lastly, ["Alien", "line"], should return true because all of the letters in "li
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_15_mutations.js)
 
 
 ### 16. <a name="ex16"></a>Chunky Monkey
@@ -187,7 +187,7 @@ _**Write a function that splits an array (first argument) into groups the length
 
 ##### Hints: 
 
-##### [Results](#)
+##### [Results](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc26_16_chunky_monkey.js)
 
 
 ***

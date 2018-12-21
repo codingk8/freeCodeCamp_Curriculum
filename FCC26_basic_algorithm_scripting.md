@@ -191,7 +191,7 @@ _**Write a function that splits an array (first argument) into groups the length
 
 ***
 
-<h2 align="center">May the force :star:</h2>
-<p align="center"><img src="https://media.giphy.com/media/zQhFEBrX6plKg/giphy.gif" alt="May the force be with you"/></p>
+<h2 align="center">May the force :orange:</h2>
+<p align="center"><img src="https://media.giphy.com/media/3oKIPcrmtSHeIYsfe0/giphy.gif" alt="May the force be with you"/></p>
   
 ***

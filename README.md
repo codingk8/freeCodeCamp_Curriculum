@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my activity 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20181216 : 558 out of 1409 = 39.6% | 1 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20181227 : 564 out of 1409 = 40% | 2 out of 30 projects | 0 out of 6 certifications</h3>
 
 ***
 
@@ -35,8 +35,8 @@
 9. _Intermediate Algorithm Scripting (in progress)_
 10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
-    * _[Roman Numeral Converter (in progress)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)_
-    * **Caesars Cipher**
+    * [Roman Numeral Converter (Done 20181227)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
+    * _Caesars Cipher (in progress)_
     * **Telephone Number Validator**
     * **Cash Register**
 

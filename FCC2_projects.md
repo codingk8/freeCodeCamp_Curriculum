@@ -20,11 +20,11 @@ All roman numerals answers should be provided in upper-case.**_
 
 [Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
 
-_### 3. Caesars Cipher (next)_
+### _3. Caesars Cipher (next)_
 
 [Solution](#)
 
-_### 4. Telephone Number Validator (next)_
+### _4. Telephone Number Validator (next)_
 
 [Solution](#)
 

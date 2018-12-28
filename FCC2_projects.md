@@ -14,15 +14,19 @@ We'll also pass strings with special symbols, such as "2A3*3a2", "2A3 3a2", and 
 
 [Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
 
-### 2. Roman Numeral Converter (Soon)
+### 2. Roman Numeral Converter (20181227)
 _**Convert the given number into a roman numeral.  
 All roman numerals answers should be provided in upper-case.**_
 
+[Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
+
+_### 3. Caesars Cipher (next)_
+
 [Solution](#)
 
-### 3. Caesars Cipher
+_### 4. Telephone Number Validator (next)_
 
-### 4. Telephone Number Validator
+[Solution](#)
 
 ### 5. Cash Register
 

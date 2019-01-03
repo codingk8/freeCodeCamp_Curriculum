@@ -33,6 +33,6 @@ All roman numerals answers should be provided in upper-case.**_
 ***
 
 <h2 align="center">Code joy :snowman:</h2>
-<p align="center" boder-radius="5%"><img src="https://media.giphy.com/media/l3vRkS8dP411iHQu4/giphy.gif" alt="May the force be with you"/></p>
+<p align="center"><img border-radius="5%" src="https://media.giphy.com/media/l3vRkS8dP411iHQu4/giphy.gif" alt="Winterwonderland"/></p>
 
 ***

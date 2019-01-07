@@ -4,14 +4,11 @@ let alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M",
 
 function rot13(str) {
   let s = str.split('');
-  console.log(s);
   let r = [];
-  
   for (let i = 0; i < s.length; i++) {
         let item = "";
-        
-        if (s[i] === " ") {
-            item = " ";
+        if (alphabet.indexOf(s[i]) === -1) {
+            item = s[i];   
         } else if ( alphabet.indexOf(s[i]) >= 13 ) {
             let id1 = s[i];
             let id2 = alphabet.indexOf(s[i]);

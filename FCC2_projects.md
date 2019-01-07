@@ -20,15 +20,23 @@ All roman numerals answers should be provided in upper-case.**_
 
 [Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
 
-### _3. Caesars Cipher (next)_
+### 3. Caesars Cipher (20190107)
+_**One of the simplest and most widely known ciphers is a Caesar cipher, also known as a shift cipher. In a shift cipher the meanings of the letters are shifted by some set amount.
+A common modern use is the ROT13 cipher, where the values of the letters are shifted by 13 places. Thus 'A' ↔ 'N', 'B' ↔ 'O' and so on.
+Write a function which takes a ROT13 encoded string as input and returns a decoded string.
+All letters will be uppercase. Do not transform any non-alphabetic character (i.e. spaces, punctuation), but do pass them on.**_
 
-[Solution](#)
+[Solution](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro3_caesars_cipher.js)
 
 ### _4. Telephone Number Validator (next)_
+_**Soon**_
 
 [Solution](#)
 
-### 5. Cash Register
+### _5. Cash Register (next)_
+_**Soon**_
+
+[Solution](#)
 
 ***
 

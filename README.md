@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my activity 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20190102 : 582 out of 1409 = 41,3% | 2 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20190102 : 587 out of 1409 = 41,7% | 4 out of 30 projects | 0 out of 6 certifications</h3>
 
 ***
 
@@ -36,19 +36,19 @@
 10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
     * [Roman Numeral Converter (Done 20181227)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
-    * _Caesars Cipher (in progress)_
-    * _Telephone Number Validator (in progress)_
-    * **Cash Register**
+    * [Caesars Cipher (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro3_caesars_cipher.js)
+    * [Telephone Number Validator (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro4_telephone_number_validator.js)
+    * _**Cash Register (in progress)**_
 
 ***
 
 ## **3. Front End Librairies Certification (in progress)**
 1. Bootstrap (Done)
-2. _jQuery (in progress)_
+2. _**jQuery (in progress)**_
 3. Sass (Done)
 4. React (Done)
 5. Redux (Done)
-6. _React and Redux (in progress)_
+6. _**React and Redux (in progress)**_
 7. **Front End Libraries Projects**
    * **Build a Random Quote Machine**
    * **Build a Markdown Previewer**
@@ -60,7 +60,7 @@
 
 ## 4. Data Visualization Certification (next)
 1. Data Visualization with D3
-2. JSON APIs and AJAX
+2. _**JSON APIs and AJAX (in progress)**_
 3. Data Visualization Projects
    * Visualize Data with a Bar Chart
    * Visualize Data with a Scatterplot Graph

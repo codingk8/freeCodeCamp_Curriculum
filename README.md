@@ -1,5 +1,5 @@
 <h1 align="center">freeCodeCamp_Curriculum</h1>
-<h2 align="center">Tracking my activity 👸🏻 in the FreeCodeCamp curriculum</h2>
+<h2 align="center">Tracking my progress 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
 <h3>20190102 : 587 out of 1409 = 41,7% | 4 out of 30 projects | 0 out of 6 certifications</h3>

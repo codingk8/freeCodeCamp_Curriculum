@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my progress 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20190102 : 587 out of 1409 = 41,7% | 4 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20190102 : 595 out of 1409 = 42,2% | 4 out of 30 projects | 0 out of 6 certifications</h3>
 
 ***
 

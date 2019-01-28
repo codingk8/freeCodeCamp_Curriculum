@@ -2,7 +2,9 @@
 <h2 align="center">Tracking my progress 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20190122 : 608 out of 1409 = 43,1% | 5 out of 30 projects | 1 out of 6 certifications</h3>
+<h3>20190128 : 609 out of 1409 = 43,1% | 5 out of 30 projects | 1 out of 6 certifications</h3>
+
+#### 20190128: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
 ***
 

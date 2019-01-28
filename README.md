@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my progress 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20190122 : 603 out of 1409 = 42,8% | 4 out of 30 projects | 0 out of 6 certifications</h3>
+<h3>20190122 : 608 out of 1409 = 43,1% | 5 out of 30 projects | 1 out of 6 certifications</h3>
 
 ***
 
@@ -32,13 +32,13 @@
 6. [Basic Algorithm Scripting (Done)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC26_basic_algorithm_scripting.md)
 7. Object Oriented Programming (Done)
 8. Functional Programming (Done)
-9. _Intermediate Algorithm Scripting (in progress)_
+9. Intermediate Algorithm Scripting (Done)
 10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
     * [Roman Numeral Converter (Done 20181227)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
     * [Caesars Cipher (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro3_caesars_cipher.js)
     * [Telephone Number Validator (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro4_telephone_number_validator.js)
-    * _**Cash Register (in progress)**_
+    * [Cash Register (Done 20190128)](#)
 
 ***
 

@@ -35,7 +35,7 @@
 7. Object Oriented Programming
 8. Functional Programming
 9. Intermediate Algorithm Scripting
-10. [JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
+10. [JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
     * [Roman Numeral Converter (Done 20181227)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
     * [Caesars Cipher (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro3_caesars_cipher.js)

@@ -2,7 +2,7 @@
 <h2 align="center">Tracking my progress 👸🏻 in the FreeCodeCamp curriculum</h2>
 
 <h3><a href="https://www.freecodecamp.org/codingk8">My FCC public profile</a></h3>
-<h3>20190128 : 609 out of 1409 = 43,1% | 5 out of 30 projects | 1 out of 6 certifications</h3>
+<h3>20190131 : 613 out of 1409 = 43,5% | 5 out of 30 projects | 1 out of 6 certifications</h3>
 
 #### 20190128: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
@@ -25,22 +25,22 @@
 
 ***
 
-## **2. JavaScript Algorithms and Data Structures Certification (in progress)**
-1. Basic JavaScript (Done)
-2. ES6 (Done)
-3. Regular Expressions (Done)
-4. Debugging (Done)
-5. Basic Data Structures (Done)
-6. [Basic Algorithm Scripting (Done)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC26_basic_algorithm_scripting.md)
-7. Object Oriented Programming (Done)
-8. Functional Programming (Done)
-9. Intermediate Algorithm Scripting (Done)
-10. **[JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
+## 2. JavaScript Algorithms and Data Structures Certification (Done)
+1. Basic JavaScript
+2. ES6
+3. Regular Expressions
+4. Debugging
+5. Basic Data Structures
+6. [Basic Algorithm Scripting](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC26_basic_algorithm_scripting.md)
+7. Object Oriented Programming
+8. Functional Programming
+9. Intermediate Algorithm Scripting
+10. [JavaScript Algorithms and Data Structures Projects](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/FCC2_projects.md)**
     * [Palindrome Checker (Done 20181215)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro1_palindrome.js)
     * [Roman Numeral Converter (Done 20181227)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro2_roman_converter.js)
     * [Caesars Cipher (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro3_caesars_cipher.js)
     * [Telephone Number Validator (Done 201901)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro4_telephone_number_validator.js)
-    * [Cash Register (Done 20190128)](#)
+    * [Cash Register (Done 20190128)](https://github.com/codingk8/freeCodeCamp_Curriculum/blob/master/fcc2_pro5_cash_register.js)
 
 ***
 
@@ -60,7 +60,7 @@
 
 ***
 
-## 4. Data Visualization Certification (next)
+## 4. Data Visualization Certification (in progress)
 1. Data Visualization with D3
 2. _**JSON APIs and AJAX (in progress)**_
 3. Data Visualization Projects
@@ -72,9 +72,9 @@
 
 ***
 
-## 5. APIs and Microservices Certification (next)
-1. Managing Packages with NPM
-2. Basic Node and Express
+## 5. APIs and Microservices Certification (in progress)
+1. _**Managing Packages with NPM (in progress)**_
+2. _**Basic Node and Express (in progress)**_
 3. MongoDB and Mongoose
 4. APIs and Microservices projects
    * Timestamp Microservice

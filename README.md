@@ -8,7 +8,7 @@
 
 ***
 
-## [My full code training progress :eyes:](https://github.com/codingk8/codeTraining_tracking_Recap)
+### [My full code training progress :eyes:](https://github.com/codingk8/codeTraining_tracking_Recap)
 
 ***
 

@@ -6,7 +6,9 @@
 
 #### 20190128: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures)
 
-##### [My full code training progress :eyes:](https://github.com/codingk8/codeTraining_tracking_Recap)
+***
+
+## [My full code training progress :eyes:](https://github.com/codingk8/codeTraining_tracking_Recap)
 
 ***
 

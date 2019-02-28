@@ -57,8 +57,3 @@ _**Soon**_
 [Solution](#)
 
 ***
-
-<h2 align="center">Code joy :snowman:</h2>
-<p align="center"><img src="https://media.giphy.com/media/l3vRkS8dP411iHQu4/giphy.gif" alt="Winterwonderland"/></p>
-
-***

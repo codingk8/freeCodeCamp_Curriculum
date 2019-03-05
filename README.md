@@ -22,7 +22,7 @@
 7. CSS Grid (Done)
 8. **Responsive Web Design Projects**
    * _Build a Tribute Page (in progress)_
-   * **Build a Survey Form**
+   * Build a Survey Form (done)
    * **Build a Product Landing Page**
    * _Build a Technical Documentation Page (in progress)_
    * _Build a Personal Portfolio Webpage (in progress)_
@@ -56,7 +56,7 @@
 5. Redux (Done)
 6. _**React and Redux (in progress)**_
 7. **Front End Libraries Projects**
-   * **Build a Random Quote Machine**
+   * _**Build a Random Quote Machine (in progress)**_
    * **Build a Markdown Previewer**
    * **Build a Drum Machine**
    * **Build a JavaScript Calculator**

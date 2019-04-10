@@ -29,7 +29,7 @@
    * Build a Survey Form - [Here](https://github.com/codingk8/freeCodeCamp-Paris-meetups-survey-form)
    * _Build a Product Landing Page (in progress)_
    * Build a Technical Documentation Page - [Here](https://codingk8.github.io/markdown-up-and-running/)
-   * _Build a Personal Portfolio Webpage (in progress) [Here](https://codingk8.github.io/)_
+   * _Build a Personal Portfolio Webpage (in progress) - [Here](https://codingk8.github.io/)_
 
 ***
 

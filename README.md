@@ -6,9 +6,9 @@
 
 #### 20190128: [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/codingk8/javascript-algorithms-and-data-structures) 🏅
 
-#### 201903xx: [Responsive Web Design Certification](#)
+#### 201904xx: [Responsive Web Design Certification](#)
 
-#### 201904xx: [Frontend Librairies Certification](#)
+#### 201905xx: [Frontend Librairies Certification](#)
 
 ***
 

@@ -26,10 +26,10 @@
 7. CSS Grid (Done)
 8. **Responsive Web Design Projects**
    * _Build a Tribute Page (in progress)_
-   * Build a Survey Form (done)
-   * **Build a Product Landing Page**
-   * _Build a Technical Documentation Page (in progress)_
-   * _Build a Personal Portfolio Webpage (in progress)_
+   * Build a Survey Form - [Here](https://github.com/codingk8/freeCodeCamp-Paris-meetups-survey-form)
+   * _Build a Product Landing Page (in progress)_
+   * Build a Technical Documentation Page - [Here](https://codingk8.github.io/markdown-up-and-running/)
+   * _Build a Personal Portfolio Webpage (in progress) [Here](https://codingk8.github.io/)_
 
 ***
 
